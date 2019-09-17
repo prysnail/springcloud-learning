@@ -9,7 +9,7 @@
 - /{label}/{application}-{profile}.yml
 
 
-如：http://localhost:7001/config-server/prod/config-label-test
+如：http://localhost:7001/config/prod/config-label-test
 
 ## 备注
 
